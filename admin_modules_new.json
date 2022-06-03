@@ -3,7 +3,63 @@
     "Name": "Orders",
     "Code": "ORDERS",
     "IsActive": true,
-    "Data": {"Title":"orders","Description":"","Url":"/orders"},
+    "Data": {"Title":"Orders","Description":"Manage orders, order orchestration and additional order information","Url":"/orders"},
+    "Roles": []
+  }
+  {
+    "Name": "Promotions",
+    "Code": "PROMOTIONS",
+    "IsActive": true,
+    "Data": {"Title":"Promotion engine","Description":"Create and manage discounts, promotion templates and campaigns","Url":"/promotions"},
+    "Roles": []
+  }
+ {
+    "Name": "Financials",
+    "Code": "FINANCIALS",
+    "IsActive": true,
+    "Data": {"Title":"Financials","Description":"All financial related functionalities, create and manage payment methods, pricelists, currencies and tax management","Url":"/financials"},
+    "Roles": []
+  }
+ {
+    "Name": "Tasks",
+    "Code": "TASKS",
+    "IsActive": true,
+    "Data": {"Title":"Tasks","Description":"Ship from store, incoming shipments, cleanups, reservations and print tasks","Url":"/tasks"},
+    "Roles": []
+  }
+ {
+    "Name": "Organizations",
+    "Code": "ORGANIZATIONS",
+    "IsActive": true,
+    "Data": {"Title":"Organizations","Description":"Managing the organization units and related information, organization unit sets and companies","Url":"/organizations"},
+    "Roles": []
+  }
+ {
+    "Name": "Settings",
+    "Code": "SETTINGS",
+    "IsActive": true,
+    "Data": {"Title":"Settings","Description":"Creating and managing settings and app settings","Url":"/settings"},
+    "Roles": []
+  }
+ {
+    "Name": "Stock",
+    "Code": "STOCK",
+    "IsActive": true,
+    "Data": {"Title":"Stock","Description":"Managing stock in categories of pruchase orders, orders fulfillments, assortments, stock counts and mutations","Url":"/stock-management"},
+    "Roles": []
+  }
+ {
+    "Name": "People",
+    "Code": "PEOPLE",
+    "IsActive": true,
+    "Data": {"Title":"People","Description":"Creating and managing employees, roles and rights and customer information","Url":"/crm"},
+    "Roles": []
+  }
+ {
+    "Name": "Pim",
+    "Code": "PIM",
+    "IsActive": true,
+    "Data": {"Title":"Pim","Description":"managing product information and product bundles","Url":"/pim"},
     "Roles": []
   }
 ]
